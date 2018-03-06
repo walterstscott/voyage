@@ -1,0 +1,23 @@
+{
+  "name": "voyage",
+  "version": "1.0.0",
+  "description": "Site de voyage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterstscott/voyage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walterstscott/voyage/issues"
+  },
+  "homepage": "https://github.com/walterstscott/voyage#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
